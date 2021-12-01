@@ -1,4 +1,2 @@
 #cloud-config
-package_upgrade: true
-packages:
-  - httpd
+fqdn: myhostname
