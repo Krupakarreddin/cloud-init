@@ -1,1 +1,1 @@
-mkdir krupakar
+mkdir "C:\krupakar"
